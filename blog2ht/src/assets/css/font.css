@@ -1,0 +1,25 @@
+@font-face {
+    font-family: LaiHu;
+    src: url('../font/Laihu.ttf');  
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: DianDong;
+    src: url('../font/Ipix.ttf');    
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: Hanyi;
+    src: url('../font/ali.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: Oppo;
+    src: url('../font/OPPOSans-M.ttf');    
+    font-weight: normal;
+    font-style: normal;
+  }
